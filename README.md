@@ -14,8 +14,8 @@ Script to add or update a quickstart submodule to a branch in your fork of the `
     -i, --interactive   Prompt at each step for confirmation (default: non-interactive)
 ```
 **ASSUMPTIONS**:
-    1. You have already forked the `rh-ai-quickstart/ai-quickstart-pub` repo to your Github account.
-    2. You DO NOT already have a branch in your forked repo for this quickstart
+1. You have already forked the `rh-ai-quickstart/ai-quickstart-pub` repo to your Github account.
+2. You DO NOT already have a branch in your forked repo for this quickstart
 
 **DESCRIPTION**:
 This script automates the process of:
